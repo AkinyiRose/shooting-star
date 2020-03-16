@@ -12,3 +12,4 @@ Create a seperate branch for each iteration of your work.
 After you submit, I will create a seperate branch for every member's code, and then we shall review the code together the next time we meet. Before then, I will have commented on everyone's code with any changes or improvements they need to make.
 
 Thank you and hope to see your work soon.
+three stars
